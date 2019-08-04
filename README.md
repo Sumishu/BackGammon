@@ -1,2 +1,2 @@
 # BackGammon
-SDP Project done by: Safayat(40), Shohan(08) and Rajeeb(54)
+SDP Project done by: Safayat Ullah(40), Md Al Nasirullah Siddiki (08) and Rajeeb Talukder (54)
